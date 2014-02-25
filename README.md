@@ -23,4 +23,4 @@ Small R-suite that computes independence indicators for bibliographic data on ci
 ### Output:
 * In the console, the property values of the co-author network for both citations and CFPs are printed.
 * In the  `img` folder, the co-author and topic similarity graphs are saved.
-* In the `gephi` golder, the graphs are stored in `.gml` format. These files can then be visualized with [Gephi](https://gephi.org/).
+* In the `gephi` folder, the graphs are stored in `.gml` format. These files can then be visualized with [Gephi](https://gephi.org/).
