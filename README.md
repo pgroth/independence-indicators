@@ -1,6 +1,8 @@
 Independence Indicators
 =======================
 
+In progress.
+
 Small R-suite that computes independence indicators for bibliographic data on citations (on data from Google Scholar), and conference contributions (on data from WikiCFP). More information: [Identifying Research Talent Using Web-Centric Databases](http://www.networkinstitute.org/wp-content/uploads/2013/01/2013websci.pdf) @ [WebSci2013](http://www.websci13.org/).
 
 ### Dependencies:
